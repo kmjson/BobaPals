@@ -1,0 +1,49 @@
+.beige-bg {
+  background: #f0dfc5 !important;
+}
+
+.push-right {
+  margin-left: auto;
+}
+
+#drinks,
+#about {
+  background: #fbc4a7;
+}
+
+.logo {
+  display: block;
+  width: 10rem;
+  margin: auto;
+  padding: 2rem 0 1rem 0;
+}
+
+.center-text {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.wave {
+  display: block;
+  margin-bottom: -0.25rem !important;
+}
+
+#order {
+  background: #ffb467;
+}
+
+.bigger {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+#footer {
+  background: #583b39;
+}
+
+.footer-text {
+  color: white;
+  margin: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 1.5rem;
+}
